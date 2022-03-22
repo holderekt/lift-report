@@ -1,0 +1,216 @@
+Date;Workout Name;Exercise Name;Set Order;Weight;Weight Unit;Reps;RPE;Distance;Distance Unit;Seconds;Notes;Workout Notes;Workout Duration
+2022-03-09 17:58:48;"Petto Bicipiti";"Bench Press (Barbell)";1;40;kg;20;;;;0;"";"Allenamento pettorali, bicipiti e addominali";2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Bench Press (Barbell)";2;50;kg;12;;;;0;;;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Bench Press (Barbell)";3;55;kg;8;;;;0;;;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Bench Press (Barbell)";4;57,5;kg;6;;;;0;;;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Incline Bench Press (Dumbbell)";1;16;kg;12;;;;0;"";;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Incline Bench Press (Dumbbell)";2;20;kg;8;;;;0;;;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Incline Bench Press (Dumbbell)";3;20;kg;8;;;;0;;;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Incline Bench Press (Dumbbell)";4;20;kg;8;;;;0;;;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Chest Fly";1;40;kg;15;;;;0;"";;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Chest Fly";2;50;kg;8;;;;0;;;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Chest Fly";3;50;kg;8;;;;0;;;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Chest Fly";4;50;kg;8;;;;0;;;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Bicep Curl (Dumbbell)";1;8;kg;12;;;;0;"";;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Bicep Curl (Dumbbell)";2;12;kg;7;;;;0;;;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Bicep Curl (Dumbbell)";3;12;kg;6;;;;0;;;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Bicep Curl (Dumbbell)";4;12;kg;5;;;;0;;;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Preacher Curl (Barbell)";1;7;kg;12;;;;0;"";;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Preacher Curl (Barbell)";2;17;kg;8;;;;0;;;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Preacher Curl (Barbell)";3;17;kg;8;;;;0;;;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Preacher Curl (Barbell)";4;17;kg;8;;;;0;;;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Hammer Curl (Cable)";1;25;kg;15;;;;0;"";;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Hammer Curl (Cable)";2;30;kg;12;;;;0;;;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Hammer Curl (Cable)";3;30;kg;12;;;;0;;;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Hammer Curl (Cable)";4;30;kg;12;;;;0;;;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Sit Up";1;;;15;;;;0;"";;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Sit Up";2;;;15;;;;0;;;2m
+2022-03-09 17:58:48;"Petto Bicipiti";"Sit Up";3;;;15;;;;0;;;2m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Pull Up (Assisted)";1;50;kg;10;;;;0;"";"Allenamento dorsali, tricipiti e addominali";1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Pull Up (Assisted)";2;50;kg;10;;;;0;;;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Pull Up (Assisted)";3;50;kg;8;;;;0;;;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Pull Up (Assisted)";4;50;kg;8;;;;0;;;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Seated Row (Cable)";1;30;kg;20;;;;0;"";;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Seated Row (Cable)";2;50;kg;8;;;;0;;;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Seated Row (Cable)";3;50;kg;8;;;;0;;;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Seated Row (Cable)";4;50;kg;8;;;;0;;;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Lat Pulldown (Cable)";1;30;kg;20;;;;0;"";;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Lat Pulldown (Cable)";2;50;kg;8;;;;0;;;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Lat Pulldown (Cable)";3;55;kg;8;;;;0;;;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Lat Pulldown (Cable)";4;55;kg;8;;;;0;;;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Triceps Dip (Assisted)";1;50;kg;15;;;;0;"";;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Triceps Dip (Assisted)";2;40;kg;10;;;;0;;;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Triceps Dip (Assisted)";3;30;kg;8;;;;0;;;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Triceps Dip (Assisted)";4;35;kg;12;;;;0;;;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Triceps Extension (Dumbbell)";1;9;kg;12;;;;0;"";;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Triceps Extension (Dumbbell)";2;12;kg;8;;;;0;;;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Triceps Extension (Dumbbell)";3;12;kg;8;;;;0;;;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Triceps Extension (Dumbbell)";4;12;kg;7;;;;0;;;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Triceps Pushdown (Cable - Straight Bar)";1;30;kg;12;;;;0;"";;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Triceps Pushdown (Cable - Straight Bar)";2;35;kg;8;;;;0;;;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Triceps Pushdown (Cable - Straight Bar)";3;25;kg;12;;;;0;;;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Triceps Pushdown (Cable - Straight Bar)";4;25;kg;12;;;;0;;;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Sit Up";1;;;15;;;;0;"";;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Sit Up";2;10;kg;15;;;;0;;;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Sit Up";3;10;kg;12;;;;0;;;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Crunch (Machine)";1;40;kg;15;;;;0;"";;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Crunch (Machine)";2;40;kg;15;;;;0;;;1h 22m
+2022-03-10 20:47:11;"Dorsali e Tricipiti";"Crunch (Machine)";3;40;kg;15;;;;0;;;1h 22m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Leg Press";1;69;kg;20;;;;0;"";"Allenamento quadricipiti, quadricipite femorale, polpacci, glutei e deltoidi";1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Leg Press";2;93;kg;12;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Leg Press";3;101;kg;12;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Leg Press";4;101;kg;12;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Standing Calf Raise (Machine)";1;40;kg;15;;;;0;"";;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Standing Calf Raise (Machine)";2;50;kg;15;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Standing Calf Raise (Machine)";3;60;kg;12;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Standing Calf Raise (Machine)";4;60;kg;12;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Lying Leg Curl (Machine)";1;30;kg;12;;;;0;"";;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Lying Leg Curl (Machine)";2;40;kg;10;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Lying Leg Curl (Machine)";3;40;kg;10;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Lying Leg Curl (Machine)";4;40;kg;10;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Hip Abductor (Machine)";1;60;kg;15;;;;0;"Apertura";;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Hip Abductor (Machine)";2;60;kg;20;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Hip Abductor (Machine)";3;60;kg;20;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Hip Abductor (Machine)";4;60;kg;15;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Hip Adductor (Machine)";1;60;kg;12;;;;0;"Chiusura";;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Hip Adductor (Machine)";2;60;kg;15;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Hip Adductor (Machine)";3;60;kg;15;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Hip Adductor (Machine)";4;60;kg;15;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Seated Overhead Press (Dumbbell)";1;12;kg;12;;;;0;"";;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Seated Overhead Press (Dumbbell)";2;12;kg;10;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Seated Overhead Press (Dumbbell)";3;12;kg;10;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Seated Overhead Press (Dumbbell)";4;12;kg;10;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Shoulder Press (Machine)";1;20;kg;15;;;;0;"";;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Shoulder Press (Machine)";2;30;kg;12;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Shoulder Press (Machine)";3;35;kg;10;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Shoulder Press (Machine)";4;35;kg;10;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Front Raise (Cable)";1;15;kg;12;;;;0;"";;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Front Raise (Cable)";2;20;kg;10;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Front Raise (Cable)";3;20;kg;10;;;;0;;;1h 16m
+2022-03-13 09:12:59;"Gambe Glutei e Deltoidi";"Front Raise (Cable)";4;20;kg;10;;;;0;;;1h 16m
+2022-03-15 15:54:26;"Petto Bicipiti";"Bench Press (Barbell)";1;40;kg;20;;;;0;"";"Allenamento pettorali, bicipiti e addominali";1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Bench Press (Barbell)";2;55;kg;12;;;;0;;;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Bench Press (Barbell)";3;55;kg;11;;;;0;;;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Bench Press (Barbell)";4;55;kg;7;;;;0;;;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Incline Bench Press (Dumbbell)";1;16;kg;12;;;;0;"";;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Incline Bench Press (Dumbbell)";2;20;kg;10;;;;0;;;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Incline Bench Press (Dumbbell)";3;20;kg;7;;;;0;;;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Incline Bench Press (Dumbbell)";4;20;kg;6;;;;0;;;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Chest Fly";1;40;kg;15;;;;0;"";;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Chest Fly";2;50;kg;10;;;;0;;;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Chest Fly";3;50;kg;9;;;;0;;;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Chest Fly";4;50;kg;8;;;;0;;;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Bicep Curl (Dumbbell)";1;8;kg;12;;;;0;"";;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Bicep Curl (Dumbbell)";2;12;kg;8;;;;0;;;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Bicep Curl (Dumbbell)";3;12;kg;7;;;;0;;;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Bicep Curl (Dumbbell)";4;12;kg;6;;;;0;;;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Preacher Curl (Barbell)";1;7;kg;15;;;;0;"";;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Preacher Curl (Barbell)";2;17;kg;10;;;;0;;;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Preacher Curl (Barbell)";3;17;kg;10;;;;0;;;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Preacher Curl (Barbell)";4;17;kg;10;;;;0;;;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Hammer Curl (Dumbbell)";1;8;kg;12;;;;0;"";;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Hammer Curl (Dumbbell)";2;8;kg;15;;;;0;;;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Hammer Curl (Dumbbell)";3;8;kg;10;;;;0;;;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Hammer Curl (Dumbbell)";4;8;kg;10;;;;0;;;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Sit Up";1;;;15;;;;0;"";;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Sit Up";2;10;kg;15;;;;0;;;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Sit Up";3;10;kg;15;;;;0;;;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Back Extension";1;;;12;;;;0;"";;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Back Extension";2;;;12;;;;0;;;1h 23m
+2022-03-15 15:54:26;"Petto Bicipiti";"Back Extension";3;;;12;;;;0;;;1h 23m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Pull Up (Assisted)";1;50;kg;10;;;;0;"";"Allenamento dorsali, tricipiti e addominali";1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Pull Up (Assisted)";2;50;kg;10;;;;0;;;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Pull Up (Assisted)";3;50;kg;10;;;;0;;;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Pull Up (Assisted)";4;50;kg;10;;;;0;;;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Seated Row (Cable)";1;30;kg;20;;;;0;"";;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Seated Row (Cable)";2;45;kg;12;;;;0;;;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Seated Row (Cable)";3;50;kg;10;;;;0;;;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Seated Row (Cable)";4;50;kg;8;;;;0;;;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Lat Pulldown (Cable)";1;30;kg;20;;;;0;"";;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Lat Pulldown (Cable)";2;50;kg;12;;;;0;;;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Lat Pulldown (Cable)";3;50;kg;12;;;;0;;;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Lat Pulldown (Cable)";4;50;kg;10;;;;0;;;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Triceps Dip (Assisted)";1;50;kg;15;;;;0;"";;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Triceps Dip (Assisted)";2;35;kg;12;;;;0;;;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Triceps Dip (Assisted)";3;35;kg;12;;;;0;;;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Triceps Dip (Assisted)";4;35;kg;10;;;;0;;;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Triceps Extension (Dumbbell)";1;8;kg;15;;;;0;"";;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Triceps Extension (Dumbbell)";2;12;kg;6;;;;0;;;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Triceps Extension (Dumbbell)";3;10;kg;10;;;;0;;;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Triceps Extension (Dumbbell)";4;10;kg;10;;;;0;;;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Triceps Pushdown (Cable - Straight Bar)";1;20;kg;20;;;;0;"";;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Triceps Pushdown (Cable - Straight Bar)";2;30;kg;12;;;;0;;;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Triceps Pushdown (Cable - Straight Bar)";3;30;kg;12;;;;0;;;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Triceps Pushdown (Cable - Straight Bar)";4;30;kg;12;;;;0;;;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Sit Up";1;;;25;;;;0;"";;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Sit Up";2;10;kg;15;;;;0;;;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Sit Up";3;10;kg;15;;;;0;;;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Back Extension";1;;;15;;;;0;"";;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Back Extension";2;;;15;;;;0;;;1h 16m
+2022-03-17 12:17:07;"Dorsali e Tricipiti";"Back Extension";3;;;15;;;;0;;;1h 16m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Leg Press";1;77;kg;20;;;;0;"";"Allenamento quadricipiti, quadricipite femorale, polpacci, glutei e deltoidi";1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Leg Press";2;101;kg;12;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Leg Press";3;101;kg;12;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Leg Press";4;101;kg;12;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Standing Calf Raise (Machine)";1;40;kg;15;;;;0;"";;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Standing Calf Raise (Machine)";2;65;kg;15;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Standing Calf Raise (Machine)";3;65;kg;15;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Standing Calf Raise (Machine)";4;65;kg;14;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Lying Leg Curl (Machine)";1;25;kg;20;;;;0;"";;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Lying Leg Curl (Machine)";2;40;kg;12;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Lying Leg Curl (Machine)";3;40;kg;12;9,5;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Lying Leg Curl (Machine)";4;40;kg;10;10;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Hip Thrust (Barbell)";1;45;kg;8;;;;0;"";;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Hip Thrust (Barbell)";2;45;kg;8;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Hip Thrust (Barbell)";3;45;kg;8;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Hip Thrust (Barbell)";4;45;kg;8;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Seated Overhead Press (Dumbbell)";1;12;kg;20;;;;0;"";;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Seated Overhead Press (Dumbbell)";2;16;kg;12;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Seated Overhead Press (Dumbbell)";3;16;kg;12;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Seated Overhead Press (Dumbbell)";4;16;kg;10;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Hip Abductor (Machine)";1;60;kg;20;;;;0;"";;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Hip Abductor (Machine)";2;60;kg;20;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Hip Abductor (Machine)";3;60;kg;20;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Hip Abductor (Machine)";4;60;kg;20;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Hip Adductor (Machine)";1;60;kg;15;;;;0;"";;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Hip Adductor (Machine)";2;60;kg;15;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Hip Adductor (Machine)";3;60;kg;15;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Hip Adductor (Machine)";4;60;kg;15;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Shoulder Press (Machine)";1;20;kg;20;;;;0;"";;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Shoulder Press (Machine)";2;35;kg;12;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Shoulder Press (Machine)";3;35;kg;12;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Shoulder Press (Machine)";4;35;kg;12;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Front Raise (Cable)";1;10;kg;20;;;;0;"";;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Front Raise (Cable)";2;20;kg;12;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Front Raise (Cable)";3;20;kg;12;;;;0;;;1h 27m
+2022-03-19 15:42:10;"Gambe Glutei e Deltoidi";"Front Raise (Cable)";4;20;kg;10;;;;0;;;1h 27m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Pull Up (Assisted)";1;50;kg;12;;;;0;"Aumento da riscaldamento";"Allenamento dorsali, tricipiti e addominali";1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Pull Up (Assisted)";2;50;kg;12;;;;0;;;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Pull Up (Assisted)";3;50;kg;10;;;;0;;;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Pull Up (Assisted)";4;50;kg;10;;;;0;;;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Seated Row (Cable)";1;30;kg;20;;;;0;"";;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Seated Row (Cable)";2;50;kg;12;;;;0;;;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Seated Row (Cable)";3;50;kg;12;;;;0;;;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Seated Row (Cable)";4;50;kg;9;;;;0;;;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Lat Pulldown (Cable)";1;30;kg;20;;;;0;"Swappato con seated row (meno rep)";;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Lat Pulldown (Cable)";2;50;kg;12;;;;0;;;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Lat Pulldown (Cable)";3;50;kg;10;;;;0;;;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Lat Pulldown (Cable)";4;50;kg;11;;;;0;;;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Triceps Dip (Assisted)";1;50;kg;15;;;;0;"Continua per un allenamento con 30x12x4";;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Triceps Dip (Assisted)";2;35;kg;12;;;;0;;;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Triceps Dip (Assisted)";3;35;kg;12;;;;0;;;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Triceps Dip (Assisted)";4;35;kg;12;;;;0;;;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Triceps Extension (Dumbbell)";1;8;kg;15;;;;0;"Diminuito, ultimo e stanco";;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Triceps Extension (Dumbbell)";2;10;kg;10;;;;0;;;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Triceps Extension (Dumbbell)";3;10;kg;9;;;;0;;;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Triceps Extension (Dumbbell)";4;10;kg;10;;;;0;;;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Triceps Pushdown (Cable - Straight Bar)";1;20;kg;20;;;;0;"";;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Triceps Pushdown (Cable - Straight Bar)";2;35;kg;12;;;;0;;;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Triceps Pushdown (Cable - Straight Bar)";3;35;kg;12;;;;0;;;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Triceps Pushdown (Cable - Straight Bar)";4;35;kg;10;;;;0;;;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Sit Up";1;10;kg;15;;;;0;"";;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Sit Up";2;10;kg;15;;;;0;;;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Sit Up";3;10;kg;15;;;;0;;;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Back Extension";1;;;15;;;;0;"";;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Back Extension";2;10;kg;10;;;;0;;;1h 19m
+2022-03-21 20:42:45;"Dorsali e Tricipiti";"Back Extension";3;10;kg;10;;;;0;;;1h 19m
